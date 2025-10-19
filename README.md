@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Leonardo Sant
 
-- 🔭 Hoje trabalho com Redes 
-- 🌱 Estudo Cybersecurity  
+- Atuando em suporte N1
+- Estuando Cibersegurança
+- Forense Digital 
 
   <div>
   <a href="https://beacons.ai/ILeosant">
